@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+}
+.nav-bar-cont{
+    display: flex;
+    justify-content: center;
+   
+}
+.nav-bar{
+    position: fixed;
+    width: 90vw;
+    padding: 40px;
+    display: flex;
+    justify-content:space-between;
+    z-index: 999;
+    /* background-color: aqua; */
+}
+.menu{
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    /* z-index: 1; */
+    background-color: #2E3138;
+}
+.nav-links:hover{
+    opacity: 0.5;
+}
+/* style for navbar  */
+.menuBr{
+    margin-top: 150px;
+}
+.nav-links{
+    letter-spacing: 2px;
+    margin-left: 15vw;
+    font-weight: 1000;
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+    font-size: 60px;
+}
+.nbarH1{
+    margin-left: 50vw;
+    margin-top: -50vh;
+    font-size: 250px;
+    opacity: 0.3;
+}
+/* style for logo and menubar */
+.logo{
+    text-decoration: none;
+    font-weight:800;
+    font-size: 1.4em;
+    color: #acb8d6;
+    cursor: pointer;
+}
+.menu-icon{
+    color: #8996B8;
+    font-size: 1.7em;
+    cursor: pointer;
+}

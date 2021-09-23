@@ -1,0 +1,21 @@
+.pg2{
+    display: flex;
+    align-items:flex-start;
+    /* background-image:linear-gradient(to right,#333333,#F6BDC0); */
+}
+.m2{
+    margin-left: 542px;
+    margin-top: 500px;
+    width: 500px;
+}
+h2{
+    padding: 15px;
+    /* color: #fff; */
+    margin-top: -750px;
+    margin-left: 500px;
+}
+.para{
+    padding: 15px;
+    color: black;
+    margin-left: 500px;
+}

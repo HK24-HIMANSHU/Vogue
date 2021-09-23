@@ -1,0 +1,28 @@
+.feabg{
+    margin-top: 30px;
+    margin-left: 690px;
+}
+.feaNo{
+    font-size: 25px;
+    margin-top: 100px;
+    display: flex;
+    align-items:center;
+    justify-content: flex-start;
+    /* background-color: aqua; */
+}
+.fno{
+    margin-left: 135px;
+}
+.fp{
+    margin-left:370px ;
+}
+.ftitle{
+    margin-left: 360px;
+    margin-top: -300px;
+    padding: 30px;
+    font-size: 30px;
+}
+.fdesc{
+    margin-right: 965px;
+    text-align: right;
+}

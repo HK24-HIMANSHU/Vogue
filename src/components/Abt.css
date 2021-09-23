@@ -1,0 +1,41 @@
+.parentAbt{
+    margin-top: 150px;
+}
+.pic1and2Abt{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+.model2Abt{
+    width: 600px;
+    height: 300px;
+}
+.tt{
+    margin-top: -735px;
+}
+.con{
+    margin-left: 515px;
+    margin-bottom: 50px;
+}
+.modelbmro{
+    display: flex;
+    justify-content: center;
+    background-color: #2E3138;
+}
+.m10{
+    margin-top: 600px;
+}
+.ser{
+    margin-top: 100px;
+    /* background-color: blue; */
+}
+.pandSet{
+    color: #fff;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+.h3prod{
+    margin-bottom: 10px;
+}

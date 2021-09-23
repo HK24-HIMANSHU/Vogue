@@ -1,0 +1,44 @@
+.lst{
+    margin-top: 100px;
+    display: inline-block;
+    z-index: 999;
+}
+.sidemein{
+    margin-top: -30px;
+    margin-left: 900px;
+    height: 100vh;
+    width: 40vw;
+}
+.no3{
+    font-size: 25px;
+    margin-left: 510px;
+    font-weight: 100;
+}
+.f3{
+    font-size: 25px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 350px;
+}
+.m5lp{
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.ordnc{
+    margin-top: 50px;
+    color: black;
+    margin-left: 200px;
+}
+.oclng{
+    margin-top: 15px;
+    margin-right: 800px;
+    text-align: right;
+}
+.thodasa{
+    display: inline-block;
+}
+.vi{
+    position: static;
+    display: flex;
+    align-items: center;
+}
