@@ -1,9 +1,10 @@
 .main-footer {
+  padding: 5rem;
   display: flex;
   color: white;
-  background-color: #dc3545;
+  background-color: #2E3138;
   padding-top: 3em;
   position: relative;
   bottom: 0;
-  width: 100%;
+  /* width: 100%; */
 }
